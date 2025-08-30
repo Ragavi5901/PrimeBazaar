@@ -1,0 +1,41 @@
+const productCategories = {
+  personalCare: [
+    { id: 1, name: "Herbal Body Wash Powder" },
+    { id: 2, name: "Herbal Hair Wash Powder" },
+    { id: 3, name: "Hand Made Soaps" }
+  ],
+  healthWellness: [
+    { id: 4, name: "Health Mix Powder" },
+    { id: 5, name: "Beetroot Powder" }
+  ],
+  spicesCulinary: [
+    { id: 6, name: "Turmeric Powder" },
+    { id: 7, name: "Spices" },
+    { id: 8, name: "Sambar Powder" },
+    { id: 9, name: "Rasam Powder" },
+    { id: 10, name: "Idily Powder" }
+  ],
+  floursSprouted: [
+    { id: 11, name: "Sprouted Ragi Flour" },
+    { id: 12, name: "Sprouted Kollu Flour" },
+    { id: 13, name: "Sprouted Kambu Flour" },
+    { id: 14, name: "Sprouted Green Gram" }
+  ],
+  apparel: [
+    { id: 15, name: "Sarees" },
+    { id: 16, name: "Nighty" },
+    { id: 17, name: "Top" }
+  ],
+  giftsToys: [
+    { id: 18, name: "Gift Items" },
+    { id: 19, name: "Toys" }
+  ],
+  stationery: [
+    { id: 20, name: "Stationery" }
+  ],
+  dairyNatural: [
+    { id: 21, name: "Pure Honey" },
+    { id: 22, name: "Idily Butter" },
+    { id: 23, name: "Pure Cow Ghee" }
+  ]
+};
